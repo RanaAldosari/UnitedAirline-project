@@ -16,7 +16,7 @@ function Populartopics() {
     <>
     
     
-    <div className="p-2 max-w-md mx-auto w-70 bg-blue-950 md:hidden">
+    <div className="p-2 bg-blue-950  md:hidden">
 {/* search */}
       <div className="flex items-center border border-gray-300 rounded-full px-4 py-2 mb-6 bg-white shadow-sm">
         <i className="fa-solid fa-magnifying-glass text-blue-700 mr-2" />
